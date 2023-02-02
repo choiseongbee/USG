@@ -94,7 +94,7 @@ struct ContentView: View {
             Button {
                 fetchMovieList()
             } label: {
-                Text("Get Movie")
+                Text("Get")
             }
             
         }
